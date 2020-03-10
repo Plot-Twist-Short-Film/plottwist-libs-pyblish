@@ -1,0 +1,7 @@
+plottwist.libs.pyblish.collectors.collectproxymesh module
+=========================================================
+
+.. automodule:: plottwist.libs.pyblish.collectors.collectproxymesh
+   :members:
+   :undoc-members:
+   :show-inheritance:

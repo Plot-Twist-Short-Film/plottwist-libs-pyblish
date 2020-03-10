@@ -6,6 +6,7 @@ Subpackages
 
 .. toctree::
 
+   plottwist.libs.pyblish.collectors
    plottwist.libs.pyblish.validators
 
 Module contents

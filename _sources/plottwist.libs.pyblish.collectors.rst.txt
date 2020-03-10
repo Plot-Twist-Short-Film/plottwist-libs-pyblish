@@ -1,0 +1,17 @@
+plottwist.libs.pyblish.collectors package
+=========================================
+
+Submodules
+----------
+
+.. toctree::
+
+   plottwist.libs.pyblish.collectors.collectproxymesh
+
+Module contents
+---------------
+
+.. automodule:: plottwist.libs.pyblish.collectors
+   :members:
+   :undoc-members:
+   :show-inheritance:
