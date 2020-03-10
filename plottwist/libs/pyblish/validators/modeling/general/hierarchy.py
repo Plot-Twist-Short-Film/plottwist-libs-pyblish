@@ -97,7 +97,7 @@ class SetupHierachy(pyblish.api.Action):
 
 class ValidatePlotTwistModelingHierarchy(pyblish.api.ContextPlugin):
     """
-    Checks if a geometry node has clean history
+    Checks if modeling file has a valid hierarchy
     """
 
     label = 'General - Check Hierarchy'
