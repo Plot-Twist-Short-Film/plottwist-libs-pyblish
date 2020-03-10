@@ -1,0 +1,7 @@
+plottwist.libs.pyblish.validators.modeling.general.hierarchy module
+===================================================================
+
+.. automodule:: plottwist.libs.pyblish.validators.modeling.general.hierarchy
+   :members:
+   :undoc-members:
+   :show-inheritance:

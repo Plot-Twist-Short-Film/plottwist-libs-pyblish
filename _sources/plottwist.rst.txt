@@ -1,0 +1,17 @@
+plottwist package
+=================
+
+Subpackages
+-----------
+
+.. toctree::
+
+   plottwist.libs
+
+Module contents
+---------------
+
+.. automodule:: plottwist
+   :members:
+   :undoc-members:
+   :show-inheritance:

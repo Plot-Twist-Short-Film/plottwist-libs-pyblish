@@ -1,0 +1,17 @@
+plottwist.libs.pyblish.validators.modeling.general package
+==========================================================
+
+Submodules
+----------
+
+.. toctree::
+
+   plottwist.libs.pyblish.validators.modeling.general.hierarchy
+
+Module contents
+---------------
+
+.. automodule:: plottwist.libs.pyblish.validators.modeling.general
+   :members:
+   :undoc-members:
+   :show-inheritance:
