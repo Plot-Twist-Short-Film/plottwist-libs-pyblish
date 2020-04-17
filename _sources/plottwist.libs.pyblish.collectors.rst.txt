@@ -1,14 +1,6 @@
 plottwist.libs.pyblish.collectors package
 =========================================
 
-Submodules
-----------
-
-.. toctree::
-   :maxdepth: 4
-
-   plottwist.libs.pyblish.collectors.collectproxymesh
-
 Module contents
 ---------------
 
