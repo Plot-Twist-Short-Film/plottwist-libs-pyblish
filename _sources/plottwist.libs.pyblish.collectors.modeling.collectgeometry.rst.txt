@@ -1,0 +1,7 @@
+plottwist.libs.pyblish.collectors.modeling.collectgeometry module
+=================================================================
+
+.. automodule:: plottwist.libs.pyblish.collectors.modeling.collectgeometry
+   :members:
+   :undoc-members:
+   :show-inheritance:

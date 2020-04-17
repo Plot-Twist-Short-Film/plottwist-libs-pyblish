@@ -1,0 +1,18 @@
+plottwist.libs.pyblish.processors.modeling.scene package
+========================================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   plottwist.libs.pyblish.processors.modeling.scene.cleanscene
+
+Module contents
+---------------
+
+.. automodule:: plottwist.libs.pyblish.processors.modeling.scene
+   :members:
+   :undoc-members:
+   :show-inheritance:

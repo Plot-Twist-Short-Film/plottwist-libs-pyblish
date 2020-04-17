@@ -1,0 +1,19 @@
+plottwist.libs.pyblish.collectors.modeling package
+==================================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   plottwist.libs.pyblish.collectors.modeling.collectgeometry
+   plottwist.libs.pyblish.collectors.modeling.collectproxymesh
+
+Module contents
+---------------
+
+.. automodule:: plottwist.libs.pyblish.collectors.modeling
+   :members:
+   :undoc-members:
+   :show-inheritance:

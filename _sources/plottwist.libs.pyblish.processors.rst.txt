@@ -1,4 +1,4 @@
-plottwist.libs.pyblish.collectors package
+plottwist.libs.pyblish.processors package
 =========================================
 
 Subpackages
@@ -7,12 +7,12 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   plottwist.libs.pyblish.collectors.modeling
+   plottwist.libs.pyblish.processors.modeling
 
 Module contents
 ---------------
 
-.. automodule:: plottwist.libs.pyblish.collectors
+.. automodule:: plottwist.libs.pyblish.processors
    :members:
    :undoc-members:
    :show-inheritance:

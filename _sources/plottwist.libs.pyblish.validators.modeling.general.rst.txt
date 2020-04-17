@@ -8,6 +8,7 @@ Submodules
    :maxdepth: 4
 
    plottwist.libs.pyblish.validators.modeling.general.hierarchy
+   plottwist.libs.pyblish.validators.modeling.general.nomenclature
    plottwist.libs.pyblish.validators.modeling.general.proxymesh
 
 Module contents
