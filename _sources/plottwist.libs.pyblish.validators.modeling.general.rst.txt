@@ -5,6 +5,7 @@ Submodules
 ----------
 
 .. toctree::
+   :maxdepth: 4
 
    plottwist.libs.pyblish.validators.modeling.general.hierarchy
    plottwist.libs.pyblish.validators.modeling.general.proxymesh
