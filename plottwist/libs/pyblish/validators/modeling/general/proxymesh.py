@@ -50,7 +50,7 @@ class ValidatePlotTwistProxyMesh(pyblish.api.ContextPlugin):
     actions = [SelectVerticesWithoutVertexColors]
 
     def process(self, context):
-        assert tpDcc.is_maya(), 'Validate Modeling Hierarchy is only available in Maya!'
+        assert tpDcc.is_maya(), 'Validate Proxy Mesh is only available in Maya!'
 
         from tpDcc.dccs.maya.core import node, api
 
