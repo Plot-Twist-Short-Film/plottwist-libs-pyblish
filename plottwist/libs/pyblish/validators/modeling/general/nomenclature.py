@@ -17,7 +17,6 @@ import pyblish.api
 import tpDcc as tp
 
 import artellapipe
-from artellapipe.libs.naming.core import naminglib
 
 
 class SelectInvalidNodes(pyblish.api.Action):
@@ -99,7 +98,7 @@ class ValidatePlotTwistProxyMeshNomenclature(pyblish.api.InstancePlugin):
         node = instance.data.get('node', None)
         assert tp.Dcc.object_exists(node), 'No valid proxy mesh node found in current instance: {}'.format(instance)
 
-        name_lib = naminglib.ArtellaNameLib()
+        name_lib = artellapipe.NamesMgr().naming_lib
         name_lib.set_active_rule('proxy_geo')
 
         parsed_name = name_lib.parse(node)
